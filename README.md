@@ -39,7 +39,7 @@
 
 ## Top Personal Projects
 
-### 🗓️ Calendar App
+### 🗓️ AI Calendar App
 A personal AI-assisted calendar application (mobile/desktop variants in progress).  
 - Focus: offline-first data model, reminders, fast keyboard UX.  
 - Repo: https://github.com/cnaples79/CalendarApp
@@ -58,22 +58,28 @@ Privacy-minded **doc & link sanitizer** (Next.js + Capacitor).
 
 ---
 
-## Notable Open-Source Contributions (selected)
+## Notable Open-Source PRs (merged)
 
-- **Microsoft / PowerToys** — *Improve Command Palette settings card layout* (UI structure, clarity, spacing)  
-  PR: https://github.com/microsoft/PowerToys/pull/42168
+- **Facebook Lexical — 22.2k ★ / 2k forks**  
+  *Consolidated ancestor-lookup helpers* — [facebook/lexical#7814](https://github.com/facebook/lexical/pull/7814)
 
-- **AWS / Graph Explorer** — *“Zoom to Fit” button for graph canvas toolbar* (lucide-react icon; Cytoscape `fit()` API)  
-  Commit: https://github.com/aws/graph-explorer/commit/efb9f0e6d8224782b0e7b285ef00e698e3e5d2dd
+- **FlutterFire (Google Firebase Flutter SDK) — 9k ★ / 4.1k forks**  
+  *Clarified `androidClientId` documentation* — [firebase/flutterfire#17720](https://github.com/firebase/flutterfire/pull/17720)
 
-- **Google / benchmark** — *Guard feature checks against failed compilation* (CMake feature detection hardening)  
-  Commit: https://github.com/google/benchmark/commit/40b63f0e2e2e0f9823f0a8d882db63a0f2a03bb6
+- **Microsoft MsQuic — 4.5k ★ / 602 forks**  
+  *CI enforcement of crate size limit* — [microsoft/msquic#5443](https://github.com/microsoft/msquic/pull/5443)
 
-- **HashiCorp / Nomad** — *Fix panic on `client.relay.addresses` config* (nil-check/validation in agent)  
-  Commit: https://github.com/hashicorp/nomad/commit/9c84811f3a6a6d7f2c3c2e4f1c6f1a47e65b4d3e
+- **Google ml-compiler-opt — 723 ★ / 113 forks**  
+  *Aliased `tf_agents.policies.policy_saver` & clarified types* — [google/ml-compiler-opt#528](https://github.com/google/ml-compiler-opt/pull/528)
 
-- **AWS Labs / aws-lambda-rust-runtime** — *Mark selected public enums `#[non_exhaustive]`* (future-proofing public API)  
-  Commit: https://github.com/awslabs/aws-lambda-rust-runtime/commit/726bcea9a6f8b25f0a9e3c8c02a59e4c14b4a5f5
+- **NVIDIA cuCollections — 587 ★ / 72 forks**  
+  *Added heterogeneous lookup example for `static_map`* — [NVIDIA/cuCollections#762](https://github.com/NVIDIA/cuCollections/pull/762)
+
+- **Microsoft VS Code Mypy Extension — 141 ★ / 32 forks**  
+  *Processed diagnostics from stderr* — [microsoft/vscode-mypy#375](https://github.com/microsoft/vscode-mypy/pull/375)
+
+- **Google Gemini Cloud Assist MCP — 17 ★ / 6 forks**  
+  *Fixed CLI command in documentation* — [GoogleCloudPlatform/gemini-cloud-assist-mcp#15](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/pull/15)
 
 ---
 
