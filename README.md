@@ -1,4 +1,4 @@
-# Chase Naples — Sr. Application Architect / Cognitive Implementation Engineer
+# Chase Naples — Sr. Application Architect / Cognitive Implementation Engineer @ Bank of America
 
 **Enterprise Conversational AI** • **Groovy/Java/BPNs** • **CI/CD** • **GenAI** • **LLMs** • **OSS contributor**
 
