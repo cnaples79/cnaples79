@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cnaples79&show_icons=true" alt="Chase's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cnaples79&show_icons=true&theme=dark" alt="Chase's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnaples79&layout=compact&langs_count=10" alt="Top languages" />
