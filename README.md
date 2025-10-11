@@ -102,3 +102,5 @@ Privacy-minded **doc & link sanitizer** (Next.js + Capacitor).
 - Portfolio: https://cnaples-portfolio.vercel.app  
 - LinkedIn: https://www.linkedin.com/in/chase-naples  
 - GitHub: https://github.com/cnaples79
+- Email:
+cnaples79@gmail.com
