@@ -9,6 +9,7 @@
 ## Snapshot
 
 <p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    <img  alt="Cnaples79's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Cnaples79?cardType=level&theme=dark&preferLogin=false" />  </a>
   <a href="https://github.com/cnaples79?tab=overview">
     <img src="https://algora.io/og/user/cnaples79" alt="Algora overview for cnaples79" width="880" />
   </a>
