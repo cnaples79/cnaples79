@@ -1,4 +1,4 @@
-# Chase Naples — Vice President, Software Engineer II/ Cognitive Implementation Engineer @ Bank of America
+# Chase Naples — Vice President, Software Engineer II / Cognitive Implementation Engineer @ Bank of America
 
 **Enterprise Conversational AI** • **Groovy/Java/BPNs** • **CI/CD** • **GenAI** • **LLMs** • **OSS contributor**
 
